@@ -1,4 +1,4 @@
-# Website Uptime Monitor
+# Website Status Monitor
 
 A lightweight Python3 service that checks a website's availability at fixed intervals, logs latency, writes a minimal HTML status page, and emails an alert when the site is unreachable. It installs itself as a `systemd` unit so it restarts automatically after crashes or reboots.
 
